@@ -258,11 +258,11 @@ require (
 	github.com/apache/thrift v0.19.0 // indirect
 	github.com/ardielle/ardielle-go v1.5.2 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
-	github.com/aws/aws-sdk-go v1.50.27 // indirect
+	github.com/aws/aws-sdk-go v1.50.31 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.25.2 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.1 // indirect
-	github.com/aws/aws-sdk-go-v2/config v1.27.4 // indirect
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.4 // indirect
+	github.com/aws/aws-sdk-go-v2/config v1.27.5 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.5 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.15.2 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.59 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.2 // indirect
@@ -271,13 +271,13 @@ require (
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.0.23 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.1.26 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.14.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.27.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.31.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.20.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.23.1 // indirect
-	github.com/aws/aws-sdk-go-v2/service/sts v1.28.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/sts v1.28.2 // indirect
 	github.com/aws/smithy-go v1.20.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blang/semver/v4 v4.0.0 // indirect
