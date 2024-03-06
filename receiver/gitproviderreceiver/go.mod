@@ -5,7 +5,6 @@ go 1.21
 require (
 	github.com/Khan/genqlient v0.6.0
 	github.com/google/go-cmp v0.6.0
-	github.com/google/go-github/v59 v59.0.0
 	github.com/google/go-github/v60 v60.0.0
 	github.com/stretchr/testify v1.9.0
 	go.opentelemetry.io/collector/component v0.96.1-0.20240305232712-5a68058e0e3a
